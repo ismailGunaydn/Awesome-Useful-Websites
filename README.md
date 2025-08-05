@@ -38,3 +38,4 @@ Constantly updated with the latest features.
 Unlock more possibilities, save time, and discover smarter ways to work—one click at a time.
 
 Have a useful site to add? Feel free to fork this list, star it, and share your favorite tools with the world!
+
