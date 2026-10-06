@@ -30,6 +30,9 @@ From productivity hacks to quirky problem solvers, ToolGenX is a growing collect
 
 
 
+### 7. [FollowerKaufen.ch Growth Calculator](https://followerkaufen.ch/tools/follower-growth)
+A free German-language calculator for planning follower-count goals. Enter current followers, target followers and days to calculate the required average net increase per day and week. It supports Swiss number formatting and works without registration. The result is a mathematical plan, not a prediction of platform recommendations or sales.
+
 ✨ Why Bookmark These Sites?
 No logins. No annoying ads. No paywalls.
 
