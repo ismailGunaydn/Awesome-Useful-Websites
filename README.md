@@ -30,6 +30,10 @@ From productivity hacks to quirky problem solvers, ToolGenX is a growing collect
 
 
 
+### 7. [QuietTake](https://noiseremover.site/)
+Clean short voice recordings in your browser.  
+Free browser-local RNNoise speech-noise reduction with original/cleaned playback and 48 kHz 16-bit mono WAV export. No signup or audio upload; each file must meet both the 50 MB and five-minute limits. Input support depends on browser codecs.
+
 ✨ Why Bookmark These Sites?
 No logins. No annoying ads. No paywalls.
 
